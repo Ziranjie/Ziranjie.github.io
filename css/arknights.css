@@ -160,13 +160,13 @@ html {
   border-radius: 0.25em;
 }
 ::-webkit-scrollbar-track {
-  background-color: rgba(255,238,34,0.133);
+  background-color: #10454f;
 }
 ::-webkit-scrollbar-thumb:hover {
   background-color: rgba(255,238,34,0.667);
 }
 ::-webkit-scrollbar-thumb:window-inactive {
-  background-color: rgba(255,238,34,0.133);
+  background-color: #506266;
 }
 body {
   margin: 0 auto;
@@ -585,7 +585,7 @@ nav .navBtn {
   pointer-events: all;
   display: block;
   position: absolute;
-  top: 1.5rem;
+  top: 27rem;
   padding: 0.5rem;
   font-size: 2rem;
   z-index: 10;
@@ -602,22 +602,22 @@ nav .navBtn .navBtnIconBar {
   top: 50%;
   width: 1em;
   height: 0.1em;
-  background-color: #d4d8dd;
+  background-color: #bde038;
   text-indent: 101%;
   white-space: nowrap;
   overflow: hidden;
   transition: transform ease-in-out 0.3s;
 }
 nav .navBtn .navBtnIconBar:nth-child(1) {
-  left: 0;
+  left: 0px;
   transform: translate(0, -350%);
 }
 nav .navBtn .navBtnIconBar:nth-child(2) {
-  left: 0;
+  left: 10px;
   transform: translate(0, -50%);
 }
 nav .navBtn .navBtnIconBar:nth-child(3) {
-  right: 0;
+  right: 0px;
   transform: translate(0, 250%);
 }
 nav.expanded .navBtnIconBar:nth-child(1) {
@@ -660,7 +660,7 @@ nav .navContent .navItem .navItemTitle {
 }
 @media (max-width: 768px) {
   .navBtn {
-    left: 1.5rem;
+    left: -0.5rem;
   }
   .navContent {
     transform: translateX(-100%);
@@ -812,7 +812,7 @@ nav .navContent .navItem .navItemTitle {
   .search-header:hover::after {
     transition: 0.3s;
     width: calc(100% + 10px);
-    background-color: #2bf;
+    background-color: #bde038;
   }
 }
 .search-popup {
@@ -865,7 +865,7 @@ nav .navContent .navItem .navItemTitle {
   background-color: unset;
 }
 .search-popup #search-result .recent-post .search-keyword {
-  background-color: #2bf;
+  background-color: #bde038;
   color: #fff;
 }
 .search-popup #search-result .recent-post .search-result-title {
@@ -1063,7 +1063,7 @@ nav .navContent .navItem .navItemTitle {
   aside h1 {
     font-size: xx-large;
     text-align: center;
-    margin: 0;
+    margin: 10px;
   }
   aside footer {
     text-align: center;
@@ -1115,7 +1115,7 @@ nav .navContent .navItem .navItemTitle {
     bottom: 56px;
   }
   #to-top {
-    bottom: 16px;
+    bottom: 160px;
   }
   #post-index {
     margin: 16px 10px 0 10px;
