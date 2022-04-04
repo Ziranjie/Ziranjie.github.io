@@ -317,8 +317,8 @@ mjx-container {
 }
 .text-title,
 .text-content {
-  height: 18px;
-  line-height: 18px;
+  height: 22px;
+  line-height: 22px;
   color: #000;
   padding: 0 5px;
   font-size: small;
@@ -330,7 +330,7 @@ mjx-container {
 }
 .text-content {
   margin: 0 10px 0 0;
-  padding: 0 28px 0 5px;
+  padding: 0 50px 0 5px;
   background-color: #fff;
 }
 .gutter pre {
@@ -1464,7 +1464,7 @@ article .recent-excerpt p {
 }
 .recent-info:after {
   content: '';
-  width: 13%;
+  width: 20%;
   display: block;
   height: 5px;
   background-color: #bde038;
