@@ -75,11 +75,11 @@ aside nobr {
 }
 @media (min-width: 769px) {
   #total-archives:hover {
-    border-color: #2bf;
+    border-color: #bde038;
     background-color: rgba(255,255,255,0.1);
   }
   #total-archives:hover .total-number {
-    color: #2bf;
+    color: #bde038;
   }
 }
 #total-tags,
@@ -99,7 +99,7 @@ aside nobr {
     background-color: rgba(20,21,22,0.96);
   }
   #aside-block:hover h1 {
-    background-color: #2bf;
+    background-color: #bde038;
   }
 }
 #aside-block h1 {
@@ -149,7 +149,7 @@ html {
   -ms-scrollbar-base-color: rgba(255,238,34,0.267);
   -ms-scrollbar-track-color: rgba(255,238,34,0.133);
   scrollbar-width: thin;
-  scrollbar-color: #fe2 #69620a;
+  scrollbar-color: #fe2 #2bf;
 }
 ::-webkit-scrollbar {
   width: 6px;
@@ -219,7 +219,7 @@ h6 {
   font-size: 1em;
 }
 a {
-  color: #2bf;
+  color: #bde038;
   padding: 0 3px;
   text-decoration: none;
   transition: 0.3s;
@@ -227,7 +227,7 @@ a {
 @media (min-width: 769px) {
   a:hover {
     color: #000;
-    background-color: #2bf;
+    background-color: #bde038;
   }
   a:active {
     color: #000;
@@ -271,7 +271,7 @@ em strong {
   color: #c0392b;
 }
 blockquote {
-  border-left: #2bf solid 5px;
+  border-left: #bde038 solid 5px;
   padding: 3px 20px;
   background-color: rgba(255,255,255,0.05);
   transition: 0.3s;
@@ -303,10 +303,10 @@ table th {
 }
 table td {
   padding: 0px 8px;
-  border: #2bf solid 1px;
+  border: #bde038 solid 1px;
 }
 table td:hover {
-  background-color: rgba(34,187,255,0.1);
+  background-color: rgba(189,224,56,0.1);
 }
 input {
   cursor: url("../cursor-inner.png") 3 3, text;
@@ -326,7 +326,7 @@ mjx-container {
   display: inline-block;
 }
 .text-title {
-  background-color: #2bf;
+  background-color: #bde038;
 }
 .text-content {
   margin: 0 10px 0 0;
@@ -438,7 +438,7 @@ table .gutter {
   position: sticky;
   color: #000;
   text-align: right;
-  background-color: #2bf;
+  background-color: #bde038;
   left: 0;
   padding: 0 8px 5px 8px;
 }
@@ -470,8 +470,8 @@ table .code:hover {
 }
 @media (min-width: 769px) {
   .category-list-item:hover a {
-    color: #2bf;
-    border-left: #2bf solid 5px;
+    color: #bde038;
+    border-left: #bde038 solid 5px;
     background-color: rgba(255,255,255,0.1);
   }
   .category-list-item:hover span {
@@ -486,7 +486,7 @@ table .code:hover {
 }
 .category-list-link:before,
 .category-list-link:after {
-  color: #2bf;
+  color: #bde038;
   content: '#';
   padding: 0 5px;
 }
@@ -513,11 +513,11 @@ table .code:hover {
 }
 @media (min-width: 769px) {
   .tag-list-item:hover {
-    border-color: #2bf;
+    border-color: #bde038;
   }
   .tag-list-item:hover a {
     color: #000;
-    background-color: #2bf;
+    background-color: #bde038;
   }
   .tag-list-item:hover span {
     background-color: #313131;
@@ -651,10 +651,10 @@ nav .navContent .navItem .navItemTitle {
 }
 @media (min-width: 1024px) {
   nav .navContent .navItem.active a {
-    color: #2bf;
+    color: #bde038;
   }
   nav .navContent .navItem:hover a {
-    color: #2bf;
+    color: #bde038;
     background-color: unset;
   }
 }
@@ -699,10 +699,10 @@ nav .navContent .navItem .navItemTitle {
     position: absolute;
   }
   .navContent .navItem.active a {
-    color: #2bf;
+    color: #bde038;
   }
   .navContent .navItem.active .navItemTitle::after {
-    border-color: #2bf;
+    border-color: #bde038;
   }
   nav.expanded .navContent {
     transform: translateX(0%);
@@ -1289,7 +1289,7 @@ nav .navContent .navItem .navItemTitle {
   #Archives:target h1,
   #Categories:target h1,
   #Tags:target h1 {
-    background-color: #2bf;
+    background-color: #bde038;
   }
 }
 #Archives {
@@ -1381,7 +1381,7 @@ article .recent-excerpt p {
   font-family: BenderLight, sans-serif;
 }
 .recent-post .categories {
-  color: #2bf;
+  color: #bde038;
   font-size: large;
   font-weight: bold;
   padding: 0 10px 0 0;
@@ -1416,7 +1416,7 @@ article .recent-excerpt p {
 @media (min-width: 769px) {
   .recent-post:hover {
     color: #000;
-    background-color: #2bf;
+    background-color: #506266;
   }
   .recent-post:hover a {
     color: #000;
@@ -1438,8 +1438,8 @@ article .recent-excerpt p {
     color: #fff;
   }
   .recent-post:hover hr {
-    color: #2bf;
-    border-color: #2bf;
+    color: #bde038;
+    border-color: #bde038;
   }
   .recent-post:hover figure table .gutter {
     background-color: #fe2;
@@ -1467,7 +1467,7 @@ article .recent-excerpt p {
   width: 13%;
   display: block;
   height: 5px;
-  background-color: #2bf;
+  background-color: #bde038;
   position: relative;
   bottom: -6px;
 }
@@ -1480,7 +1480,7 @@ article .recent-excerpt p {
   float: right;
   font-size: smaller;
   font-weight: 600;
-  background-color: #2bf;
+  background-color: #bde038;
   margin-top: -21px;
   padding: 3px 10px 3px 40px;
   font-family: BenderLight;
@@ -1503,10 +1503,10 @@ main {
 }
 #paginator a,
 #paginator span {
-  color: #fff;
+  color: #000;
   font-weight: bold;
   margin: 5px 10px 0 0;
-  border: 1px solid #2bf;
+  border: 1px solid #bde038;
   padding: 5px 10px;
 }
 @media (min-width: 769px) {
@@ -1516,7 +1516,7 @@ main {
 }
 #paginator .current {
   color: #000;
-  background-color: #2bf;
+  background-color: #bde038;
 }
 #canvas-dust {
   z-index: -65536;
@@ -1562,7 +1562,7 @@ main {
   text-align: right;
 }
 #post-info time {
-  color: #2bf;
+  color: #bde038;
   font-weight: 900;
 }
 #post-info .control {
@@ -1601,7 +1601,7 @@ main {
 #post-content h1 .headerlink,
 #post-content h2 .headerlink {
   padding: 2px 2px;
-  background-color: #2bf;
+  background-color: #bde038;
   margin-right: 7px;
 }
 #post-content h3:target a,
@@ -1617,7 +1617,7 @@ main {
 #post-content h5 .headerlink,
 #post-content h6 .headerlink {
   padding: 1px 1px;
-  background-color: #2bf;
+  background-color: #bde038;
   margin-right: 7px;
 }
 #post-footer hr {
@@ -1671,7 +1671,7 @@ main {
   display: inline-block;
 }
 #reward span {
-  color: #2bf;
+  color: #bde038;
   padding-right: 10px;
 }
 #reward img {
@@ -1717,7 +1717,7 @@ main {
 @media (min-width: 769px) {
   #toc-div .active {
     color: #000;
-    background-color: #2bf;
+    background-color: #bde038;
   }
   #toc-div .active .toc-number {
     display: none;
