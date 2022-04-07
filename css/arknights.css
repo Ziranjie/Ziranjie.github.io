@@ -1121,7 +1121,7 @@ nav .navContent .navItem .navItemTitle {
     margin: 16px 10px 0 10px;
   }
   #archive-flex {
-    flex-direction: column;
+    flex-direction: column-reverse;
   }
   #archive-aside {
     order: 1;
@@ -1503,7 +1503,7 @@ main {
 }
 #paginator a,
 #paginator span {
-  color: #000;
+  color: #bde038;
   font-weight: bold;
   margin: 5px 10px 0 0;
   border: 1px solid #bde038;
