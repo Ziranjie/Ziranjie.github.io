@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>A03|Unity|MAGI</title>
-    <url>/2020/01/01/A-03/</url>
+    <title>A01|UE4|灯浮标</title>
+    <url>/2020/01/01/A-01/</url>
     <content><![CDATA[<span id="more"></span>
 
 
 
 
-<h2 id="作品详情"><a href="#作品详情" class="headerlink" title="作品详情"></a>作品详情</h2><p><img src="/opus/A03/1.png"></p>
+<h2 id="作品详情"><a href="#作品详情" class="headerlink" title="作品详情"></a>作品详情</h2><p><img src="/opus/A01/1.jpg"></p>
 ]]></content>
       <categories>
         <category>Art|美术</category>
@@ -17,9 +17,9 @@
       </categories>
       <tags>
         <tag>学生</tag>
-        <tag>ART</tag>
+        <tag>UE4</tag>
         <tag>美术</tag>
-        <tag>Unity</tag>
+        <tag>ART</tag>
       </tags>
   </entry>
   <entry>
@@ -39,53 +39,9 @@
       </categories>
       <tags>
         <tag>学生</tag>
-        <tag>ART</tag>
         <tag>美术</tag>
+        <tag>ART</tag>
         <tag>C4D</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>A02|UE4|重置</title>
-    <url>/2020/01/01/A-02/</url>
-    <content><![CDATA[<span id="more"></span>
-
-
-
-
-<h2 id="作品详情"><a href="#作品详情" class="headerlink" title="作品详情"></a>作品详情</h2><p><img src="/opus/A02/1.png"></p>
-]]></content>
-      <categories>
-        <category>Art|美术</category>
-        <category>关卡美术分野</category>
-        <category>Level Artist</category>
-      </categories>
-      <tags>
-        <tag>学生</tag>
-        <tag>ART</tag>
-        <tag>美术</tag>
-        <tag>UE4</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>A01|UE4|灯浮标</title>
-    <url>/2020/01/01/A-01/</url>
-    <content><![CDATA[<span id="more"></span>
-
-
-
-
-<h2 id="作品详情"><a href="#作品详情" class="headerlink" title="作品详情"></a>作品详情</h2><p><img src="/opus/A01/1.jpg"></p>
-]]></content>
-      <categories>
-        <category>Art|美术</category>
-        <category>关卡美术分野</category>
-        <category>Level Artist</category>
-      </categories>
-      <tags>
-        <tag>学生</tag>
-        <tag>ART</tag>
-        <tag>美术</tag>
-        <tag>UE4</tag>
       </tags>
   </entry>
   <entry>
@@ -105,36 +61,9 @@
       </categories>
       <tags>
         <tag>学生</tag>
-        <tag>ART</tag>
         <tag>美术</tag>
+        <tag>ART</tag>
         <tag>C4D</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>D01|资探团笔记|RTT&amp;弹幕</title>
-    <url>/2020/01/01/D-01/</url>
-    <content><![CDATA[<span id="more"></span>
-
-
-
-
-<h2 id="作品详情"><a href="#作品详情" class="headerlink" title="作品详情"></a>作品详情</h2> 
-
-	<div class="row">
-    <embed src="/opus/C01/1.pdf" width="100%" height="550" type="application/pdf">
-	</div>
-
-
-]]></content>
-      <categories>
-        <category>Designer|策划</category>
-        <category>系统分野</category>
-        <category>GameDesigner</category>
-      </categories>
-      <tags>
-        <tag>学生</tag>
-        <tag>GameDesign</tag>
-        <tag>策划案</tag>
       </tags>
   </entry>
   <entry>
@@ -165,6 +94,50 @@
       </tags>
   </entry>
   <entry>
+    <title>A02|UE4|重置</title>
+    <url>/2020/01/01/A-02/</url>
+    <content><![CDATA[<span id="more"></span>
+
+
+
+
+<h2 id="作品详情"><a href="#作品详情" class="headerlink" title="作品详情"></a>作品详情</h2><p><img src="/opus/A02/1.png"></p>
+]]></content>
+      <categories>
+        <category>Art|美术</category>
+        <category>关卡美术分野</category>
+        <category>Level Artist</category>
+      </categories>
+      <tags>
+        <tag>学生</tag>
+        <tag>UE4</tag>
+        <tag>美术</tag>
+        <tag>ART</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>A03|Unity|MAGI</title>
+    <url>/2020/01/01/A-03/</url>
+    <content><![CDATA[<span id="more"></span>
+
+
+
+
+<h2 id="作品详情"><a href="#作品详情" class="headerlink" title="作品详情"></a>作品详情</h2><p><img src="/opus/A03/1.png"></p>
+]]></content>
+      <categories>
+        <category>Art|美术</category>
+        <category>关卡美术分野</category>
+        <category>Level Artist</category>
+      </categories>
+      <tags>
+        <tag>学生</tag>
+        <tag>美术</tag>
+        <tag>ART</tag>
+        <tag>Unity</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>D03|少女前线系统拆解</title>
     <url>/2020/01/01/D-03/</url>
     <content><![CDATA[<span id="more"></span>
@@ -190,6 +163,33 @@
         <tag>GameDesign</tag>
         <tag>策划案</tag>
         <tag>系统拆解</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>D01|资探团笔记|RTT&amp;弹幕</title>
+    <url>/2020/01/01/D-01/</url>
+    <content><![CDATA[<span id="more"></span>
+
+
+
+
+<h2 id="作品详情"><a href="#作品详情" class="headerlink" title="作品详情"></a>作品详情</h2> 
+
+	<div class="row">
+    <embed src="/opus/C01/1.pdf" width="100%" height="550" type="application/pdf">
+	</div>
+
+
+]]></content>
+      <categories>
+        <category>Designer|策划</category>
+        <category>系统分野</category>
+        <category>GameDesigner</category>
+      </categories>
+      <tags>
+        <tag>学生</tag>
+        <tag>GameDesign</tag>
+        <tag>策划案</tag>
       </tags>
   </entry>
   <entry>
