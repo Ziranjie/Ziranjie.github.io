@@ -23,28 +23,6 @@
       </tags>
   </entry>
   <entry>
-    <title>A02|UE4|重置</title>
-    <url>/2020/01/01/A-02/</url>
-    <content><![CDATA[<span id="more"></span>
-
-
-
-
-<h2 id="作品详情"><a href="#作品详情" class="headerlink" title="作品详情"></a>作品详情</h2><p><img src="/opus/A02/1.png"></p>
-]]></content>
-      <categories>
-        <category>Art|美术</category>
-        <category>关卡美术分野</category>
-        <category>Level Artist</category>
-      </categories>
-      <tags>
-        <tag>学生</tag>
-        <tag>ART</tag>
-        <tag>美术</tag>
-        <tag>UE4</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>A04|C4D|风格化</title>
     <url>/2020/01/01/A-04/</url>
     <content><![CDATA[<span id="more"></span>
@@ -53,28 +31,6 @@
 
 
 <h2 id="作品详情"><a href="#作品详情" class="headerlink" title="作品详情"></a>作品详情</h2><p><img src="/opus/A04/1.jpg"></p>
-]]></content>
-      <categories>
-        <category>Art|美术</category>
-        <category>关卡美术分野</category>
-        <category>Level Artist</category>
-      </categories>
-      <tags>
-        <tag>学生</tag>
-        <tag>ART</tag>
-        <tag>美术</tag>
-        <tag>C4D</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>A05|C4D|祈愿</title>
-    <url>/2020/01/01/A-05/</url>
-    <content><![CDATA[<span id="more"></span>
-
-
-
-
-<h2 id="作品详情"><a href="#作品详情" class="headerlink" title="作品详情"></a>作品详情</h2><p><img src="/opus/A05/1.png"></p>
 ]]></content>
       <categories>
         <category>Art|美术</category>
@@ -111,6 +67,50 @@
       </tags>
   </entry>
   <entry>
+    <title>A02|UE4|重置</title>
+    <url>/2020/01/01/A-02/</url>
+    <content><![CDATA[<span id="more"></span>
+
+
+
+
+<h2 id="作品详情"><a href="#作品详情" class="headerlink" title="作品详情"></a>作品详情</h2><p><img src="/opus/A02/1.png"></p>
+]]></content>
+      <categories>
+        <category>Art|美术</category>
+        <category>关卡美术分野</category>
+        <category>Level Artist</category>
+      </categories>
+      <tags>
+        <tag>学生</tag>
+        <tag>ART</tag>
+        <tag>美术</tag>
+        <tag>UE4</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>A05|C4D|祈愿</title>
+    <url>/2020/01/01/A-05/</url>
+    <content><![CDATA[<span id="more"></span>
+
+
+
+
+<h2 id="作品详情"><a href="#作品详情" class="headerlink" title="作品详情"></a>作品详情</h2><p><img src="/opus/A05/1.png"></p>
+]]></content>
+      <categories>
+        <category>Art|美术</category>
+        <category>关卡美术分野</category>
+        <category>Level Artist</category>
+      </categories>
+      <tags>
+        <tag>学生</tag>
+        <tag>ART</tag>
+        <tag>美术</tag>
+        <tag>C4D</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>D01|资探团笔记|RTT&amp;弹幕</title>
     <url>/2020/01/01/D-01/</url>
     <content><![CDATA[<span id="more"></span>
@@ -121,7 +121,7 @@
 <h2 id="作品详情"><a href="#作品详情" class="headerlink" title="作品详情"></a>作品详情</h2> 
 
 	<div class="row">
-    <embed src="/opus/C01/1.pdf" width="100%" height="550" type="application/pdf">
+    <embed src="https://cdn.jsdelivr.net/gh/Ziranjie/PicBed/img/1.pdf" width="100%" height="550" type="application/pdf">
 	</div>
 
 
@@ -135,6 +135,61 @@
         <tag>学生</tag>
         <tag>GameDesign</tag>
         <tag>策划案</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>D02|Project Iria|剧情游戏</title>
+    <url>/2020/01/01/D-02/</url>
+    <content><![CDATA[<span id="more"></span>
+
+
+
+
+<h2 id="作品详情"><a href="#作品详情" class="headerlink" title="作品详情"></a>作品详情</h2> 
+
+	<div class="row">
+    <embed src="/opus/C02/1.pdf" width="100%" height="550" type="application/pdf">
+	</div>
+
+
+]]></content>
+      <categories>
+        <category>Designer|策划</category>
+        <category>系统分野</category>
+        <category>GameDesigner</category>
+      </categories>
+      <tags>
+        <tag>学生</tag>
+        <tag>GameDesign</tag>
+        <tag>策划案</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>D03|少女前线系统拆解</title>
+    <url>/2020/01/01/D-03/</url>
+    <content><![CDATA[<span id="more"></span>
+
+
+
+
+<h2 id="作品详情"><a href="#作品详情" class="headerlink" title="作品详情"></a>作品详情</h2> 
+
+	<div class="row">
+    <embed src="/opus/C03/1.pdf" width="100%" height="550" type="application/pdf">
+	</div>
+
+
+]]></content>
+      <categories>
+        <category>Designer|策划</category>
+        <category>系统分野</category>
+        <category>GameDesigner</category>
+      </categories>
+      <tags>
+        <tag>学生</tag>
+        <tag>GameDesign</tag>
+        <tag>策划案</tag>
+        <tag>系统拆解</tag>
       </tags>
   </entry>
   <entry>
@@ -209,61 +264,6 @@
       </categories>
       <tags>
         <tag>置顶</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>D02|Project Iria|剧情游戏</title>
-    <url>/2020/01/01/D-02/</url>
-    <content><![CDATA[<span id="more"></span>
-
-
-
-
-<h2 id="作品详情"><a href="#作品详情" class="headerlink" title="作品详情"></a>作品详情</h2> 
-
-	<div class="row">
-    <embed src="/opus/C02/1.pdf" width="100%" height="550" type="application/pdf">
-	</div>
-
-
-]]></content>
-      <categories>
-        <category>Designer|策划</category>
-        <category>系统分野</category>
-        <category>GameDesigner</category>
-      </categories>
-      <tags>
-        <tag>学生</tag>
-        <tag>GameDesign</tag>
-        <tag>策划案</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>D03|少女前线系统拆解</title>
-    <url>/2020/01/01/D-03/</url>
-    <content><![CDATA[<span id="more"></span>
-
-
-
-
-<h2 id="作品详情"><a href="#作品详情" class="headerlink" title="作品详情"></a>作品详情</h2> 
-
-	<div class="row">
-    <embed src="/opus/C03/1.pdf" width="100%" height="550" type="application/pdf">
-	</div>
-
-
-]]></content>
-      <categories>
-        <category>Designer|策划</category>
-        <category>系统分野</category>
-        <category>GameDesigner</category>
-      </categories>
-      <tags>
-        <tag>学生</tag>
-        <tag>GameDesign</tag>
-        <tag>策划案</tag>
-        <tag>系统拆解</tag>
       </tags>
   </entry>
 </search>
